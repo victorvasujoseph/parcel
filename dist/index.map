@@ -1,0 +1,1 @@
+{"version":3,"sources":["index-2.js","index.js"],"names":["console","log","index2","require"],"mappings":";AAAAA,QAAQC,IAAI;;ACAZ,IAAMC,EAASC,QAAQ,aACvBH,QAAQC,IAAI","file":"index.map","sourceRoot":"..","sourcesContent":["console.log('Connected from 2');\n","const index2 = require('./index-2');\nconsole.log('hello world')\n"]}
